@@ -1,0 +1,1 @@
+# SmartResponse-Translation
